@@ -19,7 +19,9 @@
  
  This repository is organized into the following directories:
  
-  • 📑 report/: Contains the full written Project Report covering all tasks.🖼️ task-1-presentation/: Contains the exported Digital Literacy Awareness infographic.
+  • 📑 report/: Contains the full written Project Report covering all tasks.
+  
+  • 🖼️ task-1-presentation/: Contains the exported Digital Literacy Awareness infographic.
   
   • 🔗 task-2-portfolio/: Contains screenshots of my professional digital profiles and reflection notes.
   
