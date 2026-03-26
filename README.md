@@ -40,6 +40,7 @@
   ### 🧑‍💻 Module 3: Explore Coding & Collaboration Platforms
   
   This task builds familiarity with essential online tools. It includes participation in a beginner-level coding challenge on platforms like HackerRank or CodeChef, as well as the creation of a Google Form for digital collaboration.
+  
    •📝 Digital Literacy Awareness Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSdQtC46jZN09lVfU0P-cKJSQdIS5GDp2HOOWKwR3YG6GjxXNw/viewform?usp=publish-editor
   
   ### 📧 Module 4: Draft a Professional Email & Etiquette Guide 
