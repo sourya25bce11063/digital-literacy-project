@@ -19,10 +19,14 @@
  
  This repository is organized into the following directories:
  
-  • 📑 report/: Contains the full written Project Report covering all tasks.🖼️ task-1-presentation/: Contains the exported Digital Literacy Awareness infographic. 
+  • 📑 report/: Contains the full written Project Report covering all tasks.🖼️ task-1-presentation/: Contains the exported Digital Literacy Awareness infographic.
+  
   • 🔗 task-2-portfolio/: Contains screenshots of my professional digital profiles and reflection notes.
+  
   • ☁️ task-3-platforms/: Contains screenshots of coding platform activity and Google Workspace collaboration tools.
+  
   • ✉️ task-4-email-etiquette/: Contains sample professional email drafts and a social media do's and don'ts checklist.
+  
   • 🛡️ task-5-cybercrime/: Contains the cybercrime case study writeup and a prevention checklist.
   
   ## 📌 Module Summaries 
@@ -36,7 +40,7 @@
   ### 🧑‍💻 Module 3: Explore Coding & Collaboration Platforms
   
   This task builds familiarity with essential online tools. It includes participation in a beginner-level coding challenge on platforms like HackerRank or CodeChef, as well as the creation of a Google Form for digital collaboration.
-   •📝 Digital Literacy Awareness Quiz Link: Insert your Google Form Link Here](https://docs.google.com/forms/d/e/1FAIpQLSdQtC46jZN09lVfU0P-cKJSQdIS5GDp2HOOWKwR3YG6GjxXNw/viewform?usp=publish-editor
+   •📝 Digital Literacy Awareness Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSdQtC46jZN09lVfU0P-cKJSQdIS5GDp2HOOWKwR3YG6GjxXNw/viewform?usp=publish-editor
   
   ### 📧 Module 4: Draft a Professional Email & Etiquette Guide 
   
