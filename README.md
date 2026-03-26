@@ -1,7 +1,7 @@
 # 💻 CSE0001 - Digital Literacy Project 
 ### Student Digital Ambassador Portfolio 
 
-##👤 Author Information 
+## 👤 Author Information 
 
  • Name: Sourya Mishra
  
